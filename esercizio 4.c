@@ -15,6 +15,6 @@ int main() {
     printf("le caramelle da dare ad ogni amico sono: %d\n", caramelle/amici);
     printf("il numero delle caramelle rimanenti è: %d\n", resto);    
     return 0;
-}
+    }
 
 
